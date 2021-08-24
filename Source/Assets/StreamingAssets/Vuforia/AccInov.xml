@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="back_acc_002" size="10.000000 4.177709" />
+    <ImageTarget name="back_acc_001" size="5.000000 2.088854" />
+    <ImageTarget name="tambor_hori_novo" size="5.000000 7.285635" />
+    <ImageTarget name="tambor_hori" size="10.000000 14.571269" />
+    <ImageTarget name="tambor_novo" size="5.000000 5.097879" />
+    <ImageTarget name="tambor" size="5.000000 6.389776" />
+    <ImageTarget name="3_relogio_sem_bandeira" size="4.000000 0.850698" />
+    <ImageTarget name="3_relogio_bandeira" size="5.000000 1.439313" />
+    <ImageTarget name="1_relogio_sem_bandeira" size="5.000000 5.000000" />
+    <ImageTarget name="1_relagio_bandeira" size="5.000000 6.615854" />
+    <ImageTarget name="background_robot" size="5.000000 1.358696" />
+    <ImageTarget name="painel_digital_accenture_innovation" size="5.000000 4.558532" />
+    <ImageTarget name="powerplay" size="5.000000 1.362270" />
+    <ImageTarget name="foto_quadro" size="5.000000 15.423281" />
+    <ImageTarget name="rockstar" size="5.000000 3.868739" />
+    <ImageTarget name="OBXO" size="5.000000 6.652582" />
+  </Tracking>
+</QCARConfig>
