@@ -1,5 +1,5 @@
-# Augmented-Reality-Unity-Vuforia-Robot-Presentation
-Augmented Reality - Unity + Vuforia - Robot Presentation
+# Augmented Reality | Robot Presentation
+Unity (C#) + Vuforia 
 
 # How it works?
 
