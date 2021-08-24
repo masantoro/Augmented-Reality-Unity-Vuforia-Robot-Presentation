@@ -1,5 +1,5 @@
 # Augmented Reality | Robot Presentation
-Unity (C#) + Vuforia 
+Unity (C#) + Vuforia SDK
 
 # How it works?
 
